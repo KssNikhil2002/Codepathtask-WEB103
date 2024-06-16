@@ -1,0 +1,36 @@
+.creator-card {
+    background-color: #333;
+    color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    max-width: 300px;
+    text-align: left;
+  }
+  
+  .creator-card img {
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+  }
+  
+  .creator-card h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .creator-card p {
+    font-size: 1em;
+    margin-bottom: 20px;
+  }
+  
+  .info-link {
+    display: inline-block;
+    color: #1e90ff;
+    text-decoration: none;
+  }
+  
+  .info-link:hover {
+    text-decoration: underline;
+  }
